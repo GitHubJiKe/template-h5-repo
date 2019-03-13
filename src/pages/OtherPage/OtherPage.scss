@@ -1,0 +1,5 @@
+@import '../../../lib/hotcss/px2rem.scss';
+.otherpage_wrapper {
+  text-align: center;
+  padding: 0px px2rem(20);
+}

@@ -1,0 +1,32 @@
+{
+  "name": "template-h5-repo",
+  "version": "1.0.0",
+  "description": "h5 template repo based on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJiKe/template-h5-repo.git"
+  },
+  "keywords": [
+    "h5",
+    "React"
+  ],
+  "author": "peter.yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubJiKe/template-h5-repo/issues"
+  },
+  "homepage": "https://github.com/GitHubJiKe/template-h5-repo#readme",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
+    "sass": "^1.17.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.1"
+  }
+}
